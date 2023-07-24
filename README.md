@@ -1,3 +1,6 @@
+I'm kazuho cryershinozuka!
+I love Badminton🏸
+
 <p align="left"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badmintoncryer&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=badmintoncryer&theme=onedark&show_icons=ture" />
