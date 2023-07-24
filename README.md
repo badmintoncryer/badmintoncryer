@@ -1,6 +1,6 @@
 I'm kazuho cryershinozuka!
 
-🏸　I love Badminton
+I love Badminton　🏸　
 
 
 
