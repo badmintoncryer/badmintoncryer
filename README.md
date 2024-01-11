@@ -7,9 +7,8 @@ I love Badminton　🏸　
 <p align="left"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badmintoncryer&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=badmintoncryer&theme=onedark&show_icons=ture" />
+  <img alt="AWS CDK Contributor" height="150px" src="https://cdk-stats.vercel.app/api?username=badmintoncryer" />
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=badmintoncryer&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## My skills
