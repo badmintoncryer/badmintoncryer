@@ -16,9 +16,9 @@ AWS, React, TypeScript, Python, C, Signal Processing, ...
 
 
 ## Past works.
-Temperature and humidity barometers with Nixie tubes.
+Temperature, Humidity and Pressure barometer with Nixie tubes.
 
-I did everything from analogue circuit design to board design and software implementation.
+I implemented everything from analogue circuit design to board design and software implementation.
 
 
 <p align="left"> 
