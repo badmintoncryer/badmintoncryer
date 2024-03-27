@@ -4,9 +4,9 @@ I love Badminton　🏸　
 
 
 
-<p align="left"> 
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=badmintoncryer&theme=onedark&show_icons=ture" />
+<p align="left">
   <img alt="AWS CDK Contributor" height="150px" src="https://cdk-stats.vercel.app/api?username=badmintoncryer" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=badmintoncryer&theme=onedark&show_icons=ture" />
 </p>
 
 
