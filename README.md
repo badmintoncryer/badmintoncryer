@@ -2,7 +2,7 @@ I'm kazuho cryershinozuka!
 
 I love Badminton　🏸　
 
-
+- [AWS Community Builders](https://aws.amazon.com/jp/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=kazuho&cb-cards.q_operator=AND)
 
 <p align="left">
   <img alt="AWS CDK Contributor" height="150px" src="https://cdk-stats.vercel.app/api?username=badmintoncryer" />
