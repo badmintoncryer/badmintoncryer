@@ -14,7 +14,9 @@ I love Badminton　🏸　
 ## CDK unsupported properties App
 
 List of unsupported properties in the CDK L2 constructs.
-<https://d1upnzw71mlot9.cloudfront.net/>
+
+Page: <https://d1upnzw71mlot9.cloudfront.net/>
+Repo: <https://github.com/badmintoncryer/cdk-unsupported-property-app>
 
 
 ## Past works.
