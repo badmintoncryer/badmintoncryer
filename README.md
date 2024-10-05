@@ -11,9 +11,10 @@ I love Badminton　🏸　
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=badmintoncryer&theme=onedark&show_icons=ture" />
 </p>
 
+## CDK unsupported properties App
 
-## My skills
-AWS, React, TypeScript, Python, C, Signal Processing, ...
+List of unsupported properties in the CDK L2 constructs.
+<https://d1upnzw71mlot9.cloudfront.net/>
 
 
 ## Past works.
