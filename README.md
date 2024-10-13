@@ -11,7 +11,9 @@ I love Badminton　🏸　
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=badmintoncryer&theme=onedark&show_icons=ture" />
 </p>
 
-## CDK unsupported properties App
+## Past works
+
+### CDK unsupported properties App
 
 List of unsupported properties in the CDK L2 constructs.
 
@@ -19,8 +21,14 @@ Page: <https://d1upnzw71mlot9.cloudfront.net/>
 
 Repo: <https://github.com/badmintoncryer/cdk-unsupported-property-app>
 
+### CDK constructs
 
-## Past works.
+#### cdk-code-server
+
+VSCode Server on isolated EC2
+
+### Nixie tube barometer
+
 Temperature, Humidity and Pressure barometer with Nixie tubes.
 
 I implemented everything from analogue circuit design to board design and software implementation.
