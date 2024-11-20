@@ -23,19 +23,39 @@ Repo: <https://github.com/badmintoncryer/cdk-unsupported-property-app>
 
 ### CDK constructs
 
-#### [cdk-code-server](https://github.com/badmintoncryer/cdk-code-server)
+#### [cdk-iot-core-certificates-v3](https://constructs.dev/packages/cdk-iot-core-certificates-v3)
+
+CDK construct that creates an AWS IoT Core Thing with a certificate and policy
+
+![](https://github.com/badmintoncryer/cdk-iot-core-certificates-v3/raw/main/images/iot.png)
+
+#### [cdk-code-server](https://constructs.dev/packages/cdk-code-server)
 
 VSCode Server on EC2 instance which is not reachable from Internet.
 
 ![](https://github.com/badmintoncryer/cdk-code-server/raw/main/images/code-server.png)
 
+#### [cdk-private-s3-hosting](https://constructs.dev/packages/cdk-private-s3-hosting/)
+
+CDK construct that creates a private S3 bucket and an Application Load Balancer (ALB) with a listener rule that forwards requests to the S3 bucket.
+
+![](https://github.com/badmintoncryer/cdk-private-s3-hosting/raw/main/images/private_s3_hosting.png)
+
+#### [cdk-preinstalled-amazon-linux-ec2](https://constructs.dev/packages/cdk-preinstalled-amazon-linux-ec2)
+
+CDK Construct for creating a preinstalled AmazonLinux2023 EC2 instance.
+
+#### [cdk-rds-scheduler](https://constructs.dev/packages/cdk-rds-scheduler)
+
+CDK construct for creating a schedule to periodically start and stop RDS (Aurora) clusters or instances.
+
+![](https://raw.githubusercontent.com/badmintoncryer/cdk-rds-scheduler/HEAD/image/architecture.png)
 
 ### Nixie tube barometer
 
 Temperature, Humidity and Pressure barometer with Nixie tubes.
 
 I implemented everything from analogue circuit design to board design and software implementation.
-
 
 <p align="left"> 
   <img alt="Top Langs" height="300px" src="https://user-images.githubusercontent.com/64848616/221585177-107b6846-eeb8-4d6c-87d1-512ed03a3435.jpg" />
