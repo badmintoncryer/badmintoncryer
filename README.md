@@ -23,9 +23,12 @@ Repo: <https://github.com/badmintoncryer/cdk-unsupported-property-app>
 
 ### CDK constructs
 
-#### cdk-code-server
+#### [cdk-code-server](https://github.com/badmintoncryer/cdk-code-server)
 
-VSCode Server on isolated EC2
+VSCode Server on EC2 instance which is not reachable from Internet.
+
+![](https://github.com/badmintoncryer/cdk-code-server/raw/main/images/code-server.png)
+
 
 ### Nixie tube barometer
 
