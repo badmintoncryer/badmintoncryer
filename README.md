@@ -7,7 +7,6 @@ I love Badminton　🏸　
 - [AWS CDK Community Reviewer](https://github.com/aws/aws-cdk/wiki/CDK-Community-PR-Reviews)
 
 <p align="left">
-  ![](https://komarev.com/ghpvc/?username=badmintoncryer)
   <img alt="AWS CDK Contributor" height="150px" src="https://cdk-stats.vercel.app/api?username=badmintoncryer" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=badmintoncryer&theme=onedark&show_icons=ture" />
 </p>
