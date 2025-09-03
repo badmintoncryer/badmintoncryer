@@ -2,7 +2,7 @@ I'm kazuho cryershinozuka!
 
 I love Badminton　🏸　
 
-- [AWS Community Builders](https://aws.amazon.com/jp/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=kazuho&cb-cards.q_operator=AND)
+- [AWS Community Builders](https://builder.aws.com/community/@cryer)
 - [AWS CDK Top Contributor](https://github.com/aws/aws-cdk/blob/main/CONTRIBUTORS.md)
 - [AWS CDK Community Reviewer](https://github.com/aws/aws-cdk/wiki/CDK-Community-PR-Reviews)
 
