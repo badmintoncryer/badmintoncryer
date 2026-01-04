@@ -19,6 +19,16 @@ I love Badminton　🏸　
 
 ## Past works
 
+### CDK daily summary
+
+Summarizing the PRs that have been merged into CDK.
+
+<img width="586" height="361" alt="cdk-summary" src="https://github.com/user-attachments/assets/a041b7fb-24ac-4b67-be7e-7948f77e6f3b" />
+
+Page: https://d2t5fomzexey4a.cloudfront.net/
+
+Repo: https://github.com/badmintoncryer/aws-cdk-summary
+
 ### CDK unsupported properties App
 
 List of unsupported properties in the CDK L2 constructs.
