@@ -23,7 +23,7 @@ I love Badminton　🏸　
 
 Summarizing the PRs that have been merged into CDK.
 
-<img width="586" height="361" alt="cdk-summary" src="https://github.com/user-attachments/assets/a041b7fb-24ac-4b67-be7e-7948f77e6f3b" />
+<img width="610" height="361" alt="cdk-summary drawio" src="https://github.com/user-attachments/assets/522939bc-a2e0-475a-9726-222b7a8ee30b" />
 
 Page: https://d2t5fomzexey4a.cloudfront.net/
 
