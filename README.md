@@ -5,6 +5,9 @@ I love Badminton　🏸　
 - [AWS Community Builders](https://builder.aws.com/community/@cryer)
 - [AWS CDK Top Contributor](https://github.com/aws/aws-cdk/blob/main/CONTRIBUTORS.md)
 - [AWS CDK Community Reviewer](https://github.com/aws/aws-cdk/wiki/CDK-Community-PR-Reviews)
+- APJ community leaders awards 2025
+
+<img width="406" height="384" alt="スクリーンショット 2026-05-23 20 44 30" src="https://github.com/user-attachments/assets/10bc1350-d5ed-46dc-b147-3468ea23cb31" />
 
 <p align="left">
   <img alt="AWS CDK Contributor" height="150px" src="https://cdk-stats.vercel.app/api?username=badmintoncryer" />
