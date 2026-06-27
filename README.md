@@ -5,6 +5,7 @@ I love Badminton　🏸　
 - [AWS Community Builders](https://builder.aws.com/community/@cryer)
 - [AWS CDK Top Contributor](https://github.com/aws/aws-cdk/blob/main/CONTRIBUTORS.md)
 - [AWS CDK Community Reviewer](https://github.com/aws/aws-cdk/wiki/CDK-Community-PR-Reviews)
+- [Core contributor of aws-serverless-full-stack-webapp-starter-kit](https://github.com/aws-samples/serverless-full-stack-webapp-starter-kit)
 - APJ community leaders awards 2025
 
 <img width="406" height="384" alt="スクリーンショット 2026-05-23 20 44 30" src="https://github.com/user-attachments/assets/10bc1350-d5ed-46dc-b147-3468ea23cb31" />
