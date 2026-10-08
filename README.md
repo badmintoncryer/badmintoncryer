@@ -25,13 +25,13 @@ I love Badminton　🏸　
 
 ### CDK tools
 
-#### [cdk-preflight](https://github.com/badmintoncryer/cdk-preflight)
+#### <img src="https://raw.githubusercontent.com/badmintoncryer/cdk-preflight/main/assets/logo.png" alt="" width="28" align="top"> [cdk-preflight](https://github.com/badmintoncryer/cdk-preflight)
 
 [![npm](https://img.shields.io/npm/v/cdk-preflight.svg)](https://www.npmjs.com/package/cdk-preflight) [![downloads](https://img.shields.io/npm/dt/cdk-preflight.svg)](https://www.npmjs.com/package/cdk-preflight)
 
 Catch deploy-time CloudFormation failures at `cdk synth` time. A Rego rule pack (3,000+ rules) for the CloudFormation validation engine built into `aws-cdk-lib`.
 
-#### [cfn-exec-policy](https://github.com/badmintoncryer/cfn-exec-policy)
+#### <img src="https://raw.githubusercontent.com/badmintoncryer/cfn-exec-policy/main/assets/logo.png" alt="" width="28" align="top"> [cfn-exec-policy](https://github.com/badmintoncryer/cfn-exec-policy)
 
 [![npm](https://img.shields.io/npm/v/cfn-exec-policy.svg)](https://www.npmjs.com/package/cfn-exec-policy) [![downloads](https://img.shields.io/npm/dt/cfn-exec-policy.svg)](https://www.npmjs.com/package/cfn-exec-policy)
 
