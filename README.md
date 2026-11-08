@@ -37,6 +37,12 @@ Catch deploy-time CloudFormation failures at `cdk synth` time. A Rego rule pack 
 
 Least-privilege CloudFormation execution role for AWS CDK. Generates the IAM policy your templates actually need, so `cdk bootstrap` no longer hands out `AdministratorAccess`.
 
+#### <img src="https://raw.githubusercontent.com/badmintoncryer/cfn-idle-cost/main/assets/logo.png" alt="" width="28" align="top"> [cfn-idle-cost](https://github.com/badmintoncryer/cfn-idle-cost)
+
+[![npm](https://img.shields.io/npm/v/cfn-idle-cost.svg)](https://www.npmjs.com/package/cfn-idle-cost) [![downloads](https://img.shields.io/npm/dt/cfn-idle-cost.svg)](https://www.npmjs.com/package/cfn-idle-cost)
+
+What your AWS CDK app costs with zero traffic. Reads `cdk.out` and prints the monthly idle cost of NAT Gateways, load balancers, databases, provisioned capacity and more, grouped by stack and named by construct path.
+
 #### [CDK daily summary](https://d2t5fomzexey4a.cloudfront.net/)
 
 Daily summary of the PRs merged into AWS CDK. ([Repo](https://github.com/badmintoncryer/aws-cdk-summary))
