@@ -25,19 +25,19 @@ I love Badminton　🏸　
 
 ### CDK tools
 
-#### <img src="https://raw.githubusercontent.com/badmintoncryer/cdk-preflight/main/assets/logo.png" alt="" width="28" align="top"> [cdk-preflight](https://github.com/badmintoncryer/cdk-preflight)
+#### <img src="https://raw.githubusercontent.com/badmintoncryer/cdk-preflight/main/assets/logo.png" alt="" width="72" align="middle"> [cdk-preflight](https://github.com/badmintoncryer/cdk-preflight)
 
 [![npm](https://img.shields.io/npm/v/cdk-preflight.svg)](https://www.npmjs.com/package/cdk-preflight) [![downloads](https://img.shields.io/npm/dt/cdk-preflight.svg)](https://www.npmjs.com/package/cdk-preflight)
 
 Catch deploy-time CloudFormation failures at `cdk synth` time. A Rego rule pack (3,000+ rules) for the CloudFormation validation engine built into `aws-cdk-lib`.
 
-#### <img src="https://raw.githubusercontent.com/badmintoncryer/cfn-exec-policy/main/assets/logo.png" alt="" width="28" align="top"> [cfn-exec-policy](https://github.com/badmintoncryer/cfn-exec-policy)
+#### <img src="https://raw.githubusercontent.com/badmintoncryer/cfn-exec-policy/main/assets/logo.png" alt="" width="72" align="middle"> [cfn-exec-policy](https://github.com/badmintoncryer/cfn-exec-policy)
 
 [![npm](https://img.shields.io/npm/v/cfn-exec-policy.svg)](https://www.npmjs.com/package/cfn-exec-policy) [![downloads](https://img.shields.io/npm/dt/cfn-exec-policy.svg)](https://www.npmjs.com/package/cfn-exec-policy)
 
 Least-privilege CloudFormation execution role for AWS CDK. Generates the IAM policy your templates actually need, so `cdk bootstrap` no longer hands out `AdministratorAccess`.
 
-#### <img src="https://raw.githubusercontent.com/badmintoncryer/cfn-idle-cost/main/assets/logo.png" alt="" width="28" align="top"> [cfn-idle-cost](https://github.com/badmintoncryer/cfn-idle-cost)
+#### <img src="https://raw.githubusercontent.com/badmintoncryer/cfn-idle-cost/main/assets/logo.png" alt="" width="72" align="middle"> [cfn-idle-cost](https://github.com/badmintoncryer/cfn-idle-cost)
 
 [![npm](https://img.shields.io/npm/v/cfn-idle-cost.svg)](https://www.npmjs.com/package/cfn-idle-cost) [![downloads](https://img.shields.io/npm/dt/cfn-idle-cost.svg)](https://www.npmjs.com/package/cfn-idle-cost)
 
