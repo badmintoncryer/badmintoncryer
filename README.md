@@ -43,7 +43,7 @@ Least-privilege CloudFormation execution role for AWS CDK. Generates the IAM pol
 
 What your AWS CDK app costs with zero traffic. Reads `cdk.out` and prints the monthly idle cost of NAT Gateways, load balancers, databases, provisioned capacity and more, grouped by stack and named by construct path.
 
-#### [CDK daily summary](https://d2t5fomzexey4a.cloudfront.net/)
+#### [CDK daily summary](https://cdk-daily-summary.appnao.com/)
 
 Daily summary of the PRs merged into AWS CDK. ([Repo](https://github.com/badmintoncryer/aws-cdk-summary))
 
