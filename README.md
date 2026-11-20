@@ -1,10 +1,10 @@
 I'm kazuho cryershinozuka!
 
-<img src="assets/aws-devtools-hero.svg" alt="AWS DevTools Hero" width="320" />
+<a href="https://builder.aws.com/community/@cryer"><img src="assets/aws-devtools-hero.svg" alt="AWS DevTools Hero" width="320" /></a>
 
 I love Badminton　🏸　
 
-- **AWS DevTools Hero**
+- [**AWS DevTools Hero**](https://builder.aws.com/community/@cryer)
 - [AWS Community Builders](https://builder.aws.com/community/@cryer)
 - [AWS CDK Top Contributor](https://github.com/aws/aws-cdk/blob/main/CONTRIBUTORS.md)
 - [AWS CDK Community Reviewer](https://github.com/aws/aws-cdk/wiki/CDK-Community-PR-Reviews)
