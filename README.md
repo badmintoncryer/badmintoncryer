@@ -20,9 +20,34 @@ I love Badminton　🏸　
 
 ## OSS contribution
 
-- [AWS CDK](https://github.com/aws/aws-cdk/pulls?q=is%3Apr+author%3Abadmintoncryer)
-- [Terraform provider AWS](https://github.com/hashicorp/terraform-provider-aws/pulls?q=is%3Apr+author%3Abadmintoncryer)
-- [Grafana](https://github.com/grafana/grafana/pulls?q=is%3Apr+author%3Abadmintoncryer)
+- [AWS CDK](https://github.com/aws/aws-cdk/pulls?q=is%3Apr+is%3Amerged+author%3Abadmintoncryer): 190+ merged PRs. Highlights:
+  - [feat(ec2): regional NAT Gateway](https://github.com/aws/aws-cdk/pull/36538)
+  - [feat(apigateway): ALB integration](https://github.com/aws/aws-cdk/pull/36247)
+  - [feat(elasticloadbalancingv2): JWT verification for application load balancer](https://github.com/aws/aws-cdk/pull/36099)
+  - [feat(cognito): managed login](https://github.com/aws/aws-cdk/pull/33097)
+  - [feat(rds): limitless database cluster](https://github.com/aws/aws-cdk/pull/32151)
+  - [feat(s3): replicating objects](https://github.com/aws/aws-cdk/pull/30966)
+  - [feat(efs): replicating file systems](https://github.com/aws/aws-cdk/pull/29347)
+  - [feat(route53): weighted routing](https://github.com/aws/aws-cdk/pull/28705)
+- [AWS CDK CLI](https://github.com/aws/aws-cdk-cli/pulls?q=is%3Apr+is%3Amerged+author%3Abadmintoncryer)
+  - [feat: exclude stacks from the selection with `!` patterns](https://github.com/aws/aws-cdk-cli/pull/1920)
+  - [feat: show the target environment in cdk diff stack headers](https://github.com/aws/aws-cdk-cli/pull/1885)
+- [Open Constructs Library](https://github.com/open-constructs/aws-cdk-library/pulls?q=is%3Apr+is%3Amerged+author%3Abadmintoncryer)
+  - [feat(aws-fsx): construct for NetApp ONTAP file system](https://github.com/open-constructs/aws-cdk-library/pull/42)
+  - [feat(aws-ec2): construct for EC2 Instance Connect Endpoint](https://github.com/open-constructs/aws-cdk-library/pull/22)
+- [Terraform provider AWS](https://github.com/hashicorp/terraform-provider-aws/pulls?q=is%3Apr+is%3Amerged+author%3Abadmintoncryer)
+  - [r/aws_docdb_cluster: add support for `manage_master_user_password`](https://github.com/hashicorp/terraform-provider-aws/pull/42563)
+  - [aws_iot_domain_configuration: support for application protocol and authentication type](https://github.com/hashicorp/terraform-provider-aws/pull/42534)
+  - [r/aws_rds_cluster: add `auto_minor_version_upgrade`](https://github.com/hashicorp/terraform-provider-aws/pull/42472)
+- [cfn-lint](https://github.com/aws-cloudformation/cfn-lint/pulls?q=is%3Apr+is%3Amerged+author%3Abadmintoncryer)
+  - [fix(E3696): also flag ApplicationLogLevel when LogFormat is Text](https://github.com/aws-cloudformation/cfn-lint/pull/5027)
+- [CloudFormation Validate](https://github.com/aws-cloudformation/cloudformation-validate/pulls?q=is%3Apr+is%3Amerged+author%3Abadmintoncryer)
+  - [feat(rules): validate EventBridge event pattern matchers (E9014)](https://github.com/aws-cloudformation/cloudformation-validate/pull/468)
+- [Grafana](https://github.com/grafana/grafana/pulls?q=is%3Apr+is%3Amerged+author%3Abadmintoncryer)
+  - [Alerting: Fix the unnecessary `FolderCreationModal` that is displayed twice](https://github.com/grafana/grafana/pull/94654)
+- [Generative AI Use Cases](https://github.com/aws-samples/generative-ai-use-cases/pulls?q=is%3Apr+is%3Amerged+author%3Abadmintoncryer)
+  - [feat(closed-network): allow additional VPC endpoints in API Gateway resource policy](https://github.com/aws-samples/generative-ai-use-cases/pull/1723)
+- [CDK Conference 2024 contribute workshop](https://github.com/jaws-ug-cdk/cdk-conf-2024-contribute-workshop/pulls?q=is%3Apr+is%3Amerged+author%3Abadmintoncryer): workshop materials for first-time CDK contributors (12 PRs)
 
 ## Projects
 
