@@ -1,8 +1,11 @@
 I'm kazuho cryershinozuka!
 
+<a href="https://builder.aws.com/community/@cryer"><img src="assets/aws-devtools-hero.svg" alt="AWS DevTools Hero" width="320" /></a>
+
 I love Badminton　🏸　
 
-- [AWS Community Builders](https://builder.aws.com/community/@cryer)
+- [**AWS DevTools Hero**](https://builder.aws.com/community/@cryer)
+- AWS Community Builders (2024-2026)
 - [AWS CDK Top Contributor](https://github.com/aws/aws-cdk/blob/main/CONTRIBUTORS.md)
 - [AWS CDK Community Reviewer](https://github.com/aws/aws-cdk/wiki/CDK-Community-PR-Reviews)
 - [Core contributor of aws-serverless-full-stack-webapp-starter-kit](https://github.com/aws-samples/serverless-full-stack-webapp-starter-kit)
